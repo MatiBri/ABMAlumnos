@@ -1,0 +1,9 @@
+D:\ABMAlumnos\ABMAlumnos\bin\Debug\ABMAlumnos.exe.config
+D:\ABMAlumnos\ABMAlumnos\bin\Debug\ABMAlumnos.exe
+D:\ABMAlumnos\ABMAlumnos\bin\Debug\ABMAlumnos.pdb
+D:\ABMAlumnos\ABMAlumnos\obj\Debug\ABMAlumnos.csprojResolveAssemblyReference.cache
+D:\ABMAlumnos\ABMAlumnos\obj\Debug\ABMAlumnos.frmAlumno.resources
+D:\ABMAlumnos\ABMAlumnos\obj\Debug\ABMAlumnos.Properties.Resources.resources
+D:\ABMAlumnos\ABMAlumnos\obj\Debug\ABMAlumnos.csproj.GenerateResource.Cache
+D:\ABMAlumnos\ABMAlumnos\obj\Debug\ABMAlumnos.exe
+D:\ABMAlumnos\ABMAlumnos\obj\Debug\ABMAlumnos.pdb
